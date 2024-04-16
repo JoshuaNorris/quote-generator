@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+    /* This prevents padding from adding extra width or height to the page */
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    /* vh is the height of the screen you are on
+    So this is saying that it will be the full height of the screen. */
+    
+}
